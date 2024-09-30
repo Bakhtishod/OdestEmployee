@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\GitHub\OdestEmployee\bin\Debug\net6.0\OdestEmployee.exe
+C:\Users\USER\Desktop\GitHub\OdestEmployee\bin\Debug\net6.0\OdestEmployee.deps.json
+C:\Users\USER\Desktop\GitHub\OdestEmployee\bin\Debug\net6.0\OdestEmployee.runtimeconfig.json
+C:\Users\USER\Desktop\GitHub\OdestEmployee\bin\Debug\net6.0\OdestEmployee.dll
+C:\Users\USER\Desktop\GitHub\OdestEmployee\bin\Debug\net6.0\OdestEmployee.pdb
+C:\Users\USER\Desktop\GitHub\OdestEmployee\obj\Debug\net6.0\OdestEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\GitHub\OdestEmployee\obj\Debug\net6.0\OdestEmployee.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\GitHub\OdestEmployee\obj\Debug\net6.0\OdestEmployee.AssemblyInfo.cs
+C:\Users\USER\Desktop\GitHub\OdestEmployee\obj\Debug\net6.0\OdestEmployee.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GitHub\OdestEmployee\obj\Debug\net6.0\OdestEmployee.dll
+C:\Users\USER\Desktop\GitHub\OdestEmployee\obj\Debug\net6.0\refint\OdestEmployee.dll
+C:\Users\USER\Desktop\GitHub\OdestEmployee\obj\Debug\net6.0\OdestEmployee.pdb
+C:\Users\USER\Desktop\GitHub\OdestEmployee\obj\Debug\net6.0\OdestEmployee.genruntimeconfig.cache
+C:\Users\USER\Desktop\GitHub\OdestEmployee\obj\Debug\net6.0\ref\OdestEmployee.dll
